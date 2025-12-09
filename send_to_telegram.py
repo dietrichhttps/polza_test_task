@@ -28,8 +28,6 @@ def get_chat_id():
 
     print("Ожидаю сообщения от вас боту... Напишите ему что-нибудь.")
 
-    last_count = 0
-
     while True:
         r = requests.get(url)
         data = r.json()
