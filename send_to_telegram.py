@@ -2,7 +2,7 @@ import requests
 import time
 import os
 
-BOT_TOKEN = "8278902484:AAHcnl33of4kci0pMQUQbhw1Ws0cNLRslkA"  # ← вставить сюда
+BOT_TOKEN = "ВАШ_ТОКЕН_БОТА"  # ← вставить сюда
 TEXT_FILE = "message.txt"
 CHAT_ID_FILE = "chat_id.txt"
 
